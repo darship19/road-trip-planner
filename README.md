@@ -3,6 +3,11 @@
 A user-friendly web application that simplifies trip planning using Gemini AI. Users can input trip details, and the app generates a personalized travel plan with suggested routes, destinations, and recommendations. Built using **React.js**, **Gemini AI**, and **Firebase** for seamless functionality and scalability.
 
 ---
+## Project Plab
+![Alt text](https://github.com/darship19/road-trip-planner/blob/main/img/1.png)
+![Alt text](https://github.com/darship19/road-trip-planner/blob/main/img/2.png)
+![Alt text](https://github.com/darship19/road-trip-planner/blob/main/img/3.png)
+
 
 ## 🎯 Features
 
