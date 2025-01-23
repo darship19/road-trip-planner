@@ -8,8 +8,8 @@ import {getFirestore} from 'firebase/firestore'
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBwZTw8Wj_xBRb0cUzY37BF1AsBh1gv3pY",
-  authDomain: "trip-app-9f397.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "trip-app-9f397",
   storageBucket: "trip-app-9f397.firebasestorage.app",
   messagingSenderId: "507183180900",
